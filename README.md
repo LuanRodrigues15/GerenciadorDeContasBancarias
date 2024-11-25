@@ -60,17 +60,8 @@ O projeto é composto pelas seguintes classes principais:
    Descubra qual gerente obteve a maior pontuação.
 
 ## Exemplo de Saída
-- Conta Corrente aberta para Pessoa Física:
-Agência 0015 • Conta 123-01 
-Conta Corrente 
-Cliente: João Silva 
-CPF: 123.456.789-00 
-Saldo: R$ 0.0 
-Gerente: Maria Oliveira 
-CPF: 987.654.321-00 
-Pontuação: 7
+Conta Corrente aberta para Pessoa Física: Agência 0015 • Conta 123-01, Cliente: João Silva, CPF: 123.456.789-00, Saldo: R$ 0.0, Gerente: Maria Oliveira, CPF: 987.654.321-00, Pontuação: 7
 
-- Gerente com maior pontuação:
 Gerente com maior pontuação: Maria Oliveira
 
 
